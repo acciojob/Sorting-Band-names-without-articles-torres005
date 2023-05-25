@@ -7,4 +7,4 @@ function bands(bde){
 
 const band = bandName.sort((a,b)=> bands(a) > bands(b) ? 1:-1 );
 
-console.log(band)
+
